@@ -13,6 +13,10 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+/path/to/file.txt
+/relative/C:\Users\PC\Desktop\0825_Ani\CreativeCore_Animation_2022.3LTS\Library
+
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
